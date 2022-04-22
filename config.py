@@ -1,0 +1,5 @@
+TOKEN ="5111291970:AAF6rKkPUojUqEC3dn8BUAbdqSMCnq1hOlg"
+URL_JIHC = "https://jihc.edupage.org/"
+URL_APPLE = "https://www.apple.com/"
+URL_SUM = "https://www.samsung.com/kz_ru/"
+URL_XIO = "https://okami.kz/products/okami-v50-ultra.html?campaign_type=type1&campaign_id=61885197&desktop&gbid=4566050047&phrase_id=38102054685&retargeting_id=&coef_goal_context_id=0&position=1&source_type=search&region_name=%D0%A2%D0%B0%D1%80%D0%B0%D0%B7&utm_source=yandex&utm_medium=cpc&utm_campaign=VERTICAL%20SEARCH&utm_term=---autotargeting&utm_content=none&yclid=17803689400647811071"
